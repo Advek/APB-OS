@@ -1,0 +1,7 @@
+LEGAL NOTICE
+this project is not affiliated with or supported by Microsoft
+Corporation, is only offered under the terms of Fair Use,
+as codified by Title 17 Code, §107. By using
+this iso, you certify that you agree to Microsoft's Software
+License Terms ( https://is.gd/w10license )
+
