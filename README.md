@@ -1,1 +1,1 @@
-APB-OS is open source project which based on windows 7, 10 1709 and 21h2.
+APB-OS is open source project which based on windows 7 and 10
